@@ -30,7 +30,7 @@ Step_4, Connect resistor to PNP(Emitter).
 
 Step_5, Connect base to arduino digital(pwm) pin 12 & 13.
 
-Step_5, Connect collector ground.
+Step_6, Connect collector ground.
 
 See the picture:
 
